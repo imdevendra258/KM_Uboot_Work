@@ -1,0 +1,5 @@
+drivers/usb/musb-new/musb_dsps.c:147:12:dsps_musb_enable	0	static
+drivers/usb/musb-new/musb_dsps.c:181:13:dsps_musb_disable	0	static
+drivers/usb/musb-new/musb_dsps.c:408:12:dsps_musb_init	16	static
+drivers/usb/musb-new/musb_dsps.c:475:12:dsps_musb_exit	8	static
+drivers/usb/musb-new/musb_dsps.c:292:20:dsps_interrupt	8	static

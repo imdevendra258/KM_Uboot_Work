@@ -1,0 +1,2 @@
+fs/btrfs/root.c:34:5:btrfs_find_root	544	static
+fs/btrfs/root.c:58:5:btrfs_lookup_root_ref	120	static

@@ -1,2 +1,2 @@
-# KM_Uboot_Work
-KM_Uboot_Work
+# uboot
+u-boot 2019 source code repository to support Beagle Bone Black.

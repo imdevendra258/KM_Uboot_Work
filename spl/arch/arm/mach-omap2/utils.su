@@ -1,0 +1,8 @@
+arch/arm/mach-omap2/utils.c:12:13:do_cancel_out	24	static
+arch/arm/mach-omap2/utils.c:132:6:omap_set_fastboot_vars	128	static
+arch/arm/mach-omap2/utils.c:145:6:cancel_out	16	static
+arch/arm/mach-omap2/utils.c:164:13:omap_die_id	0	static
+arch/arm/mach-omap2/utils.c:169:6:omap_die_id_serial	56	static
+arch/arm/mach-omap2/utils.c:184:6:omap_die_id_get_board_serial	8	static
+arch/arm/mach-omap2/utils.c:202:6:omap_die_id_usbethaddr	32	static
+arch/arm/mach-omap2/utils.c:228:6:omap_die_id_display	32	static

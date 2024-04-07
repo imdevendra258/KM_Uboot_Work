@@ -1,0 +1,17 @@
+board/ti/am335x/km_lcd.c:58:5:Write_Gpio_Value	0	static
+board/ti/am335x/km_lcd.c:68:5:Write_Gpio_Value_Control	0	static
+board/ti/am335x/km_lcd.c:78:6:Gpio_Init	0	static
+board/ti/am335x/km_lcd.c:243:6:HD44780_EN	0	static
+board/ti/am335x/km_lcd.c:251:6:Delay_HD44780	16	static
+board/ti/am335x/km_lcd.c:199:6:LCD_Write_High_Nibble	8	static
+board/ti/am335x/km_lcd.c:221:6:LCD_Write_Low_Nibble	8	static
+board/ti/am335x/km_lcd.c:259:6:hd44780_write	8	static
+board/ti/am335x/km_lcd.c:265:6:hd44780_wr_cmd	0	static
+board/ti/am335x/km_lcd.c:270:6:hd44780_wr_data	0	static
+board/ti/am335x/km_lcd.c:275:6:HD44780_PutChar	0	static
+board/ti/am335x/km_lcd.c:280:6:HD44780_GotoXY	0	static
+board/ti/am335x/km_lcd.c:295:6:HD44780_PutStr	8	static
+board/ti/am335x/km_lcd.c:303:6:HD44780_ClrScr	0	static
+board/ti/am335x/km_lcd.c:98:6:Lcd_Init	8	static
+board/ti/am335x/km_lcd.c:307:6:HD44780_Str_XY	8	static
+board/ti/am335x/km_lcd.c:127:6:lcd_bootmenu	8	static

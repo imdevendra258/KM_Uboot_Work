@@ -1,0 +1,9 @@
+fs/btrfs/ctree.c:107:12:read_tree_node	10336	static
+fs/btrfs/ctree.c:200:12:jump_leaf	104	static
+fs/btrfs/ctree.c:12:5:btrfs_comp_keys	16	static
+fs/btrfs/ctree.c:29:5:btrfs_comp_keys_type	16	static
+fs/btrfs/ctree.c:68:5:btrfs_bin_search	32	static
+fs/btrfs/ctree.c:95:6:btrfs_free_path	16	static
+fs/btrfs/ctree.c:151:5:btrfs_search_tree	48	static
+fs/btrfs/ctree.c:262:5:btrfs_prev_slot	0	static
+fs/btrfs/ctree.c:271:5:btrfs_next_slot	8	static

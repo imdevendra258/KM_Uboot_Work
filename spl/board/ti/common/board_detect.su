@@ -1,0 +1,17 @@
+board/ti/common/board_detect.c:78:27:ti_i2c_eeprom_get	32	static
+board/ti/common/board_detect.c:62:28:ti_eeprom_string_cleanup	8	static
+board/ti/common/board_detect.c:74:13:gpi2c_init	0	static
+board/ti/common/board_detect.c:171:20:ti_i2c_eeprom_am_set	24	static
+board/ti/common/board_detect.c:195:20:ti_i2c_eeprom_am_get	104	static
+board/ti/common/board_detect.c:241:20:ti_i2c_eeprom_dra7_get	64	static
+board/ti/common/board_detect.c:287:21:board_ti_is	8	static
+board/ti/common/board_detect.c:296:21:board_ti_rev_is	8	static
+board/ti/common/board_detect.c:308:23:board_ti_get_rev	0	static
+board/ti/common/board_detect.c:316:23:board_ti_get_config	0	static
+board/ti/common/board_detect.c:324:23:board_ti_get_name	0	static
+board/ti/common/board_detect.c:333:1:board_ti_get_eth_mac_addr	0	static
+board/ti/common/board_detect.c:351:20:board_ti_get_emif1_size	0	static
+board/ti/common/board_detect.c:361:20:board_ti_get_emif2_size	0	static
+board/ti/common/board_detect.c:371:21:set_board_info_env	8	static
+board/ti/common/board_detect.c:417:6:board_ti_set_ethaddr	48	static
+board/ti/common/board_detect.c:456:21:board_ti_was_eeprom_read	0	static

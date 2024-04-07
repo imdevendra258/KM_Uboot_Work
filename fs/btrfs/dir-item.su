@@ -1,0 +1,3 @@
+fs/btrfs/dir-item.c:10:12:verify_dir_item	8	static
+fs/btrfs/dir-item.c:63:5:btrfs_lookup_dir_item	120	static
+fs/btrfs/dir-item.c:89:5:btrfs_readdir	112	static

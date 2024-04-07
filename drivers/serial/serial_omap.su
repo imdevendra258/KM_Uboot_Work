@@ -1,0 +1,1 @@
+drivers/serial/serial_omap.c:100:12:omap_serial_ofdata_to_platdata	16	static

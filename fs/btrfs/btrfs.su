@@ -1,0 +1,8 @@
+fs/btrfs/btrfs.c:15:12:readdir_callback	264	static
+fs/btrfs/btrfs.c:77:5:btrfs_probe	16	static
+fs/btrfs/btrfs.c:112:5:btrfs_ls	64	static
+fs/btrfs/btrfs.c:138:5:btrfs_exists	64	static
+fs/btrfs/btrfs.c:149:5:btrfs_size	232	static
+fs/btrfs/btrfs.c:173:5:btrfs_read	248	static
+fs/btrfs/btrfs.c:210:6:btrfs_close	0	static
+fs/btrfs/btrfs.c:215:5:btrfs_uuid	8	static

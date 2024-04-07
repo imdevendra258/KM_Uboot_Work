@@ -1,0 +1,6 @@
+drivers/net/ti/cpsw_mdio.c:64:12:cpsw_mdio_wait_for_user_access.isra	16	static
+drivers/net/ti/cpsw_mdio.c:97:12:cpsw_mdio_write	24	static
+drivers/net/ti/cpsw_mdio.c:71:12:cpsw_mdio_read	16	static
+drivers/net/ti/cpsw_mdio.c:119:5:cpsw_mdio_get_alive	0	static
+drivers/net/ti/cpsw_mdio.c:128:17:cpsw_mdio_init	24	static
+drivers/net/ti/cpsw_mdio.c:190:6:cpsw_mdio_free	16	static

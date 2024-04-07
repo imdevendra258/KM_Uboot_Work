@@ -1,0 +1,8 @@
+drivers/mmc/omap_hsmmc.c:890:13:mmc_reset_controller_fsm	16	static
+drivers/mmc/omap_hsmmc.c:1499:12:omap_hsmmc_getwp	0	static
+drivers/mmc/omap_hsmmc.c:1485:12:omap_hsmmc_getcd	8	static
+drivers/mmc/omap_hsmmc.c:1042:12:omap_hsmmc_send_cmd	32	static
+drivers/mmc/omap_hsmmc.c:1420:12:omap_hsmmc_set_ios	32	static
+drivers/mmc/omap_hsmmc.c:273:6:mmc_init_stream	16	static
+drivers/mmc/omap_hsmmc.c:808:12:omap_hsmmc_init_setup	16	static
+drivers/mmc/omap_hsmmc.c:1544:5:omap_mmc_init	32	static

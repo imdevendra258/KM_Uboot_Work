@@ -1,0 +1,2 @@
+fs/btrfs/extent-io.c:12:5:btrfs_read_extent_inline	48	static
+fs/btrfs/extent-io.c:64:5:btrfs_read_extent_reg	64	static

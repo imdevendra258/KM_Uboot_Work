@@ -1,0 +1,3 @@
+fs/btrfs/subvolume.c:81:13:list_subvols	480	dynamic,bounded
+fs/btrfs/subvolume.c:70:5:btrfs_get_default_subvol_objectid	56	static
+fs/btrfs/subvolume.c:122:6:btrfs_list_subvols	16	static

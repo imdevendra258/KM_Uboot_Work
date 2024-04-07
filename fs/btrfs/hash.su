@@ -1,0 +1,4 @@
+fs/btrfs/hash.c:14:6:btrfs_hash_init	8	static
+fs/btrfs/hash.c:24:5:btrfs_crc32c	0	static
+fs/btrfs/hash.c:30:5:btrfs_csum_data	0	static
+fs/btrfs/hash.c:35:6:btrfs_csum_final	0	static

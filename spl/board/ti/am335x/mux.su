@@ -1,0 +1,12 @@
+board/ti/am335x/mux.c:98:6:km_bbb_mux	8	static
+board/ti/am335x/mux.c:106:6:enable_board_pin_mux	0	static
+board/ti/am335x/mux.c:278:6:enable_uart0_pin_mux	0	static
+board/ti/am335x/mux.c:283:6:enable_uart1_pin_mux	0	static
+board/ti/am335x/mux.c:288:6:enable_uart2_pin_mux	0	static
+board/ti/am335x/mux.c:293:6:enable_uart3_pin_mux	0	static
+board/ti/am335x/mux.c:298:6:enable_uart4_pin_mux	0	static
+board/ti/am335x/mux.c:303:6:enable_uart5_pin_mux	0	static
+board/ti/am335x/mux.c:308:6:enable_i2c0_pin_mux	0	static
+board/ti/am335x/mux.c:314:6:enable_i2c1_pin_mux	0	static
+board/ti/am335x/mux.c:318:6:enable_i2c2_pin_mux	0	static
+board/ti/am335x/mux.c:369:6:test	16	static

@@ -1,0 +1,13 @@
+drivers/net/ti/cpsw.c:591:12:cpdma_submit	12	static
+drivers/net/ti/cpsw.c:782:12:cpsw_reap_completed_packets	0	static
+drivers/net/ti/cpsw.c:944:13:cpsw_halt	8	static
+drivers/net/ti/cpsw.c:951:12:cpsw_send	16	static
+drivers/net/ti/cpsw.c:301:12:cpsw_ale_read.isra	0	static
+drivers/net/ti/cpsw.c:325:12:cpsw_ale_match_addr	48	static
+drivers/net/ti/cpsw.c:358:12:cpsw_ale_find_ageable	24	static
+drivers/net/ti/cpsw.c:344:12:cpsw_ale_match_free	24	static
+drivers/net/ti/cpsw.c:403:12:cpsw_ale_add_mcast.constprop.isra	48	static
+drivers/net/ti/cpsw.c:937:12:cpsw_init	48	static
+drivers/net/ti/cpsw.c:958:12:cpsw_recv	16	static
+drivers/net/ti/cpsw.c:899:5:_cpsw_register	24	static
+drivers/net/ti/cpsw.c:974:5:cpsw_register	16	static

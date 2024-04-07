@@ -1,0 +1,12 @@
+arch/arm/mach-omap2/am33xx/board.c:245:13:am33xx_otg0_set_phy_power	0	static
+arch/arm/mach-omap2/am33xx/board.c:264:13:am33xx_otg1_set_phy_power	0	static
+arch/arm/mach-omap2/am33xx/board.c:43:5:dram_init	8	static
+arch/arm/mach-omap2/am33xx/board.c:56:5:dram_init_banksize	0	static
+arch/arm/mach-omap2/am33xx/board.c:152:5:cpu_mmc_init	16	static
+arch/arm/mach-omap2/am33xx/board.c:282:5:arch_misc_init	8	static
+arch/arm/mach-omap2/am33xx/board.c:368:5:board_early_init_f	8	static
+arch/arm/mach-omap2/am33xx/board.c:382:13:am33xx_spl_board_init	0	static
+arch/arm/mach-omap2/am33xx/board.c:485:6:s_init	0	static
+arch/arm/mach-omap2/am33xx/board.c:492:6:early_system_init	8	static
+arch/arm/mach-omap2/am33xx/board.c:533:6:board_init_f	8	static
+arch/arm/mach-omap2/am33xx/board.c:548:5:arch_cpu_init_dm	8	static

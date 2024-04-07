@@ -1,0 +1,5 @@
+fs/btrfs/inode.c:11:5:btrfs_lookup_inode_ref	120	static
+fs/btrfs/inode.c:47:5:btrfs_lookup_inode	112	static
+fs/btrfs/inode.c:86:5:btrfs_readlink	128	static
+fs/btrfs/inode.c:212:5:btrfs_lookup_path	264	static
+fs/btrfs/inode.c:319:5:btrfs_file_read	136	static

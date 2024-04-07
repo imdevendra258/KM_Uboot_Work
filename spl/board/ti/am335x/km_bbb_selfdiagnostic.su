@@ -1,0 +1,3 @@
+board/ti/am335x/km_bbb_selfdiagnostic.c:80:6:gpio_output_testcase	8	static
+board/ti/am335x/km_bbb_selfdiagnostic.c:93:6:gpio_input_testcase	16	static
+board/ti/am335x/km_bbb_selfdiagnostic.c:26:6:All_Test_Cases	40	static

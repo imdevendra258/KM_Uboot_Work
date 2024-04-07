@@ -1,0 +1,4 @@
+drivers/net/phy/atheros.c:20:12:ar8021_config	24	static
+drivers/net/phy/atheros.c:56:12:ar8035_config	24	static
+drivers/net/phy/atheros.c:30:12:ar8031_config	24	static
+drivers/net/phy/atheros.c:124:5:phy_atheros_init	8	static

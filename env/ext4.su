@@ -1,0 +1,2 @@
+env/ext4.c:34:12:env_ext4_save	131232	static
+env/ext4.c:78:12:env_ext4_load	131312	static

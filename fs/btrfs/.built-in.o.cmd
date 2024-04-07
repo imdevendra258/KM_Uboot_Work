@@ -1,0 +1,1 @@
+cmd_fs/btrfs/built-in.o :=  arm-linux-gnueabihf-ld.bfd     -r -o fs/btrfs/built-in.o fs/btrfs/btrfs.o fs/btrfs/chunk-map.o fs/btrfs/compression.o fs/btrfs/ctree.o fs/btrfs/dev.o fs/btrfs/dir-item.o fs/btrfs/extent-io.o fs/btrfs/hash.o fs/btrfs/inode.o fs/btrfs/root.o fs/btrfs/subvolume.o fs/btrfs/super.o 

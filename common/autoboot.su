@@ -1,0 +1,3 @@
+common/autoboot.c:297:5:multiboot	16	static
+common/autoboot.c:409:13:bootdelay_process	16	static
+common/autoboot.c:447:6:autoboot_command	32	static

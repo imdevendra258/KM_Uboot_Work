@@ -1,0 +1,1 @@
+drivers/dfu/dfu_tftp.c:12:5:dfu_tftp_write	32	static

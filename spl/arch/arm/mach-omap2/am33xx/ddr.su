@@ -1,0 +1,8 @@
+arch/arm/mach-omap2/am33xx/ddr.c:62:13:configure_mr	16	static
+arch/arm/mach-omap2/am33xx/ddr.c:81:6:config_sdram_emif4d5	16	static
+arch/arm/mach-omap2/am33xx/ddr.c:163:6:config_sdram	24	static
+arch/arm/mach-omap2/am33xx/ddr.c:200:6:set_sdram_timings	0	static
+arch/arm/mach-omap2/am33xx/ddr.c:304:6:config_ddr_phy	8	static
+arch/arm/mach-omap2/am33xx/ddr.c:332:6:config_cmd_ctrl	0	static
+arch/arm/mach-omap2/am33xx/ddr.c:350:6:config_ddr_data	8	static
+arch/arm/mach-omap2/am33xx/ddr.c:373:6:config_io_ctrl	0	static

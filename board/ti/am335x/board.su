@@ -1,0 +1,8 @@
+board/ti/am335x/board.c:1385:13:cpsw_control	0	static
+board/ti/am335x/board.c:1004:13:request_and_set_gpio	16	static
+board/ti/am335x/board.c:72:6:do_board_detect	8	static
+board/ti/am335x/board.c:488:6:do_cape_detect	368	static
+board/ti/am335x/board.c:1125:6:rtc32k_enable	8	static
+board/ti/am335x/board.c:1151:5:board_init	16	static
+board/ti/am335x/board.c:1263:5:board_late_init	24	static
+board/ti/am335x/board.c:1442:5:board_eth_init	24	static

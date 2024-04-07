@@ -1,0 +1,5 @@
+fs/btrfs/chunk-map.c:18:12:add_chunk_mapping	24	static
+fs/btrfs/chunk-map.c:70:5:btrfs_map_logical_to_physical	16	static
+fs/btrfs/chunk-map.c:93:6:btrfs_chunk_map_exit	16	static
+fs/btrfs/chunk-map.c:106:5:btrfs_chunk_map_init	2064	static
+fs/btrfs/chunk-map.c:144:5:btrfs_read_chunk_tree	104	static

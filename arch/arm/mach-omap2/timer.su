@@ -1,0 +1,6 @@
+arch/arm/mach-omap2/timer.c:71:14:get_timer_masked	8	static
+arch/arm/mach-omap2/timer.c:36:5:timer_init	0	static
+arch/arm/mach-omap2/timer.c:50:7:get_timer	8	static
+arch/arm/mach-omap2/timer.c:56:6:__udelay	0	static
+arch/arm/mach-omap2/timer.c:91:20:get_ticks	8	static
+arch/arm/mach-omap2/timer.c:100:7:get_tbclk	0	static

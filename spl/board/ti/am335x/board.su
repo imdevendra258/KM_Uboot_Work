@@ -1,0 +1,15 @@
+board/ti/am335x/board.c:695:11:bone_not_connected_to_ac_power	16	static
+board/ti/am335x/board.c:72:6:do_board_detect	8	static
+board/ti/am335x/board.c:488:6:do_cape_detect	368	static
+board/ti/am335x/board.c:662:5:spl_start_uboot	8	static
+board/ti/am335x/board.c:681:27:get_dpll_ddr_params	8	static
+board/ti/am335x/board.c:710:27:get_dpll_mpu_params	16	static
+board/ti/am335x/board.c:839:6:scale_vcores_generic	16	static
+board/ti/am335x/board.c:876:6:gpi2c_init	8	static
+board/ti/am335x/board.c:891:6:scale_vcores	8	static
+board/ti/am335x/board.c:904:6:set_uart_mux_conf	8	static
+board/ti/am335x/board.c:925:6:set_mux_conf_regs	0	static
+board/ti/am335x/board.c:962:6:sdram_init	16	static
+board/ti/am335x/board.c:1125:6:rtc32k_enable	8	static
+board/ti/am335x/board.c:1151:5:board_init	8	static
+board/ti/am335x/board.c:1263:5:board_late_init	16	static

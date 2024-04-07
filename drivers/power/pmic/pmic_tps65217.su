@@ -1,0 +1,4 @@
+drivers/power/pmic/pmic_tps65217.c:19:5:tps65217_reg_read	0	static
+drivers/power/pmic/pmic_tps65217.c:43:5:tps65217_reg_write	40	static
+drivers/power/pmic/pmic_tps65217.c:118:5:tps65217_voltage_update	8	static
+drivers/power/pmic/pmic_tps65217.c:138:5:power_tps65217_init	16	static

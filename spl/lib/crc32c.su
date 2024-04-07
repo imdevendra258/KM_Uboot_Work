@@ -1,0 +1,2 @@
+lib/crc32c.c:16:10:crc32c_cal	8	static
+lib/crc32c.c:25:6:crc32c_init	12	static
